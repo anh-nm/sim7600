@@ -1,0 +1,2 @@
+button.c:11:6:init_button	16	static
+button.c:21:9:get_btn_status	8	static

@@ -1,0 +1,4 @@
+power_on_gsm.c:12:6:gsm_data_receive	528	static
+power_on_gsm.c:31:9:power_on	8	static
+power_on_gsm.c:118:6:loop	8	static
+power_on_gsm.c:148:9:send_command	16	static

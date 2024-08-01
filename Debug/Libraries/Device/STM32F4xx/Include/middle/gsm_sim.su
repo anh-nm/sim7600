@@ -1,0 +1,11 @@
+gsm_sim.c:12:6:USART1_IRQHandler	16	static
+gsm_sim.c:26:6:init_gsm_sim	40	static
+gsm_sim.c:65:6:init_gsm_power_pin	24	static
+gsm_sim.c:81:9:gsm_get_status	8	static
+gsm_sim.c:85:6:gsm_pull_down_pwr	8	static
+gsm_sim.c:89:6:gsm_pull_up_pwr	8	static
+gsm_sim.c:93:6:gsm_sim_send_string	16	static
+gsm_sim.c:100:10:gsm_sim_have_new_data	4	static
+gsm_sim.c:104:10:gsm_sim_get_old_ms_received	4	static
+gsm_sim.c:108:10:gsm_sim_get_new_data	16	static
+gsm_sim.c:118:6:gsm_sim_clear_buffer	8	static

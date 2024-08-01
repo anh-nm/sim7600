@@ -1,0 +1,7 @@
+struc_queue.c:10:9:sq_init	24	static
+struc_queue.c:31:13:sq_inc_tail	16	static
+struc_queue.c:40:13:sq_inc_head	16	static
+struc_queue.c:48:9:sq_is_empty	16	static
+struc_queue.c:57:9:sq_is_full	16	static
+struc_queue.c:70:9:sq_push	16	static
+struc_queue.c:82:9:sq_pop	16	static

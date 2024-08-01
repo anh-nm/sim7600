@@ -1,0 +1,3 @@
+uart.c:3:6:init_uart	32	static
+uart.c:27:6:uart_send_string	16	static
+uart.c:34:6:uart_send_byte	16	static
