@@ -11,12 +11,17 @@
 
 typedef enum {
     NO_CLICK = 0,
-    CLICK,
-    LONG_CLICK,
-    HOLD_BUTTON,
-    HOLD_BUTTON_LONG
+    LONG_CLICK = 4,
+    HOLD_BUTTON = 5,
+    HOLD_BUTTON_LONG,
+    WAIT_CLICK
 } button_state;
 
+typedef enum {
+    CLICK = 1,
+    DOUBLE_CLICK = 2,
+    TRIBLE_CLICK = 3
+} time_click;
 void init_button(void);
 uint8_t get_btn_status(void);
 uint8_t button_loop(void);

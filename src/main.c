@@ -12,9 +12,9 @@ int main(void)
   while (1)
   {
 	  led_on();
-	  gsm_data_receive();
-	  loop();
-	  //button_loop();
+	  //gsm_data_receive();
+	  //loop();
+	  button_loop();
 	  
   }
 
